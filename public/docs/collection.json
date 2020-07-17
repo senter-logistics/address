@@ -1,0 +1,177 @@
+{
+    "variables": [],
+    "info": {
+        "name": "Laravel API",
+        "_postman_id": "d8e45c0c-f8f7-43e3-b2a0-04cfe7017f77",
+        "description": "",
+        "schema": "https:\/\/schema.getpostman.com\/json\/collection\/v2.0.0\/collection.json"
+    },
+    "item": [
+        {
+            "name": "Endpoints",
+            "description": "",
+            "item": [
+                {
+                    "name": "api\/getPostalCodeData\/{id}",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "address.e-hop.mx",
+                            "path": "api\/getPostalCodeData\/:id",
+                            "query": [],
+                            "raw": "https:\/\/address.e-hop.mx\/api\/getPostalCodeData\/:id",
+                            "variable": [
+                                {
+                                    "id": "id",
+                                    "key": "id",
+                                    "value": "64550",
+                                    "description": "Postal code Number."
+                                }
+                            ]
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"api_key\": \"ec28f5ed-91e2-4e93-8d86-030241fe2481\"\n}",
+                            "options": {
+                                "raw": {
+                                    "language": "json"
+                                }
+                            }
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/getPostalCodeDataFromCanada\/{id}",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "address.e-hop.mx",
+                            "path": "api\/getPostalCodeDataFromCanada\/:id",
+                            "query": [],
+                            "raw": "https:\/\/address.e-hop.mx\/api\/getPostalCodeDataFromCanada\/:id",
+                            "variable": [
+                                {
+                                    "id": "id",
+                                    "key": "id",
+                                    "value": "V2T5N7",
+                                    "description": "Postal code Number."
+                                }
+                            ]
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"api_key\": \"ec28f5ed-91e2-4e93-8d86-030241fe2481\"\n}",
+                            "options": {
+                                "raw": {
+                                    "language": "json"
+                                }
+                            }
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/getPostalCodeDataFromColombia\/{id}",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "address.e-hop.mx",
+                            "path": "api\/getPostalCodeDataFromColombia\/:id",
+                            "query": [],
+                            "raw": "https:\/\/address.e-hop.mx\/api\/getPostalCodeDataFromColombia\/:id",
+                            "variable": [
+                                {
+                                    "id": "id",
+                                    "key": "id",
+                                    "value": "110111",
+                                    "description": "Postal code Number."
+                                }
+                            ]
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"api_key\": \"ec28f5ed-91e2-4e93-8d86-030241fe2481\"\n}",
+                            "options": {
+                                "raw": {
+                                    "language": "json"
+                                }
+                            }
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\/",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "address.e-hop.mx",
+                            "path": "\/",
+                            "query": [],
+                            "raw": "https:\/\/address.e-hop.mx\/\/"
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]",
+                            "options": {
+                                "raw": {
+                                    "language": "json"
+                                }
+                            }
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                }
+            ]
+        }
+    ]
+}
