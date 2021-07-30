@@ -1,0 +1,1660 @@
+{
+  "model": [
+    {
+      "id": 1,
+      "nombre": "AHUACHAPAN",
+      "municipios": [
+        {
+          "id": 1,
+          "idDepartamento": 1,
+          "nombre": "Ahuachapán",
+          "codigoPostal": "02101"
+        },
+        {
+          "id": 2,
+          "idDepartamento": 1,
+          "nombre": "Apaneca",
+          "codigoPostal": "02102"
+        },
+        {
+          "id": 3,
+          "idDepartamento": 1,
+          "nombre": "Atiquizaya",
+          "codigoPostal": "02103"
+        },
+        {
+          "id": 4,
+          "idDepartamento": 1,
+          "nombre": "Concepción de Ataco",
+          "codigoPostal": "02106"
+        },
+        {
+          "id": 5,
+          "idDepartamento": 1,
+          "nombre": "El Refugio",
+          "codigoPostal": "02107"
+        },
+        {
+          "id": 6,
+          "idDepartamento": 1,
+          "nombre": "Guaymango",
+          "codigoPostal": "02108"
+        },
+        {
+          "id": 7,
+          "idDepartamento": 1,
+          "nombre": "Jujutla",
+          "codigoPostal": "02109"
+        },
+        {
+          "id": 8,
+          "idDepartamento": 1,
+          "nombre": "San Francisco Menéndez",
+          "codigoPostal": "02113"
+        },
+        {
+          "id": 9,
+          "idDepartamento": 1,
+          "nombre": "San Lorenzo",
+          "codigoPostal": "02115"
+        },
+        {
+          "id": 10,
+          "idDepartamento": 1,
+          "nombre": "San Pedro Puxtla",
+          "codigoPostal": "02116"
+        },
+        {
+          "id": 11,
+          "idDepartamento": 1,
+          "nombre": "Tacuba",
+          "codigoPostal": "02117"
+        },
+        {
+          "id": 12,
+          "idDepartamento": 1,
+          "nombre": "Turín",
+          "codigoPostal": "02118"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "CABAÑAS",
+      "municipios": [
+        {
+          "id": 154,
+          "idDepartamento": 9,
+          "nombre": "Cinquera",
+          "codigoPostal": "01202"
+        },
+        {
+          "id": 155,
+          "idDepartamento": 9,
+          "nombre": "Dolores",
+          "codigoPostal": "01209"
+        },
+        {
+          "id": 156,
+          "idDepartamento": 9,
+          "nombre": "Guacotecti",
+          "codigoPostal": "01203"
+        },
+        {
+          "id": 157,
+          "idDepartamento": 9,
+          "nombre": "Ilobasco",
+          "codigoPostal": "01204"
+        },
+        {
+          "id": 158,
+          "idDepartamento": 9,
+          "nombre": "Jutiapa",
+          "codigoPostal": "01206"
+        },
+        {
+          "id": 159,
+          "idDepartamento": 9,
+          "nombre": "San Isidro",
+          "codigoPostal": "01207"
+        },
+        {
+          "id": 160,
+          "idDepartamento": 9,
+          "nombre": "Sensuntepeque",
+          "codigoPostal": "01201"
+        },
+        {
+          "id": 161,
+          "idDepartamento": 9,
+          "nombre": "Tejutepeque",
+          "codigoPostal": "01208"
+        },
+        {
+          "id": 162,
+          "idDepartamento": 9,
+          "nombre": "Victoria",
+          "codigoPostal": "01210"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "CHALATENANGO",
+      "municipios": [
+        {
+          "id": 64,
+          "idDepartamento": 5,
+          "nombre": "Agua Caliente",
+          "codigoPostal": "01302"
+        },
+        {
+          "id": 65,
+          "idDepartamento": 5,
+          "nombre": "Arcatao",
+          "codigoPostal": "01303"
+        },
+        {
+          "id": 66,
+          "idDepartamento": 5,
+          "nombre": "Azacualpa",
+          "codigoPostal": "01304"
+        },
+        {
+          "id": 67,
+          "idDepartamento": 5,
+          "nombre": "Chalatenango",
+          "codigoPostal": "01301"
+        },
+        {
+          "id": 68,
+          "idDepartamento": 5,
+          "nombre": "Citalá",
+          "codigoPostal": "01306"
+        },
+        {
+          "id": 69,
+          "idDepartamento": 5,
+          "nombre": "Comalapa",
+          "codigoPostal": "01307"
+        },
+        {
+          "id": 70,
+          "idDepartamento": 5,
+          "nombre": "Concepción Quezaltepeque",
+          "codigoPostal": "01308"
+        },
+        {
+          "id": 71,
+          "idDepartamento": 5,
+          "nombre": "Dulce Nombre de María",
+          "codigoPostal": "01309"
+        },
+        {
+          "id": 72,
+          "idDepartamento": 5,
+          "nombre": "El Carrizal",
+          "codigoPostal": "01311"
+        },
+        {
+          "id": 73,
+          "idDepartamento": 5,
+          "nombre": "El Paraíso",
+          "codigoPostal": "01312"
+        },
+        {
+          "id": 74,
+          "idDepartamento": 5,
+          "nombre": "La Laguna",
+          "codigoPostal": "01313"
+        },
+        {
+          "id": 75,
+          "idDepartamento": 5,
+          "nombre": "La Palma",
+          "codigoPostal": "01314"
+        },
+        {
+          "id": 76,
+          "idDepartamento": 5,
+          "nombre": "La Reina",
+          "codigoPostal": "01315"
+        },
+        {
+          "id": 77,
+          "idDepartamento": 5,
+          "nombre": "Las Vueltas",
+          "codigoPostal": "01317"
+        },
+        {
+          "id": 78,
+          "idDepartamento": 5,
+          "nombre": "Nombre de Jesús",
+          "codigoPostal": "01318"
+        },
+        {
+          "id": 79,
+          "idDepartamento": 5,
+          "nombre": "Nueva Concepción",
+          "codigoPostal": "01319"
+        },
+        {
+          "id": 80,
+          "idDepartamento": 5,
+          "nombre": "Nueva Trinidad",
+          "codigoPostal": "01320"
+        },
+        {
+          "id": 81,
+          "idDepartamento": 5,
+          "nombre": "Ojos de Agua",
+          "codigoPostal": "01321"
+        },
+        {
+          "id": 82,
+          "idDepartamento": 5,
+          "nombre": "Potonico",
+          "codigoPostal": "01322"
+        },
+        {
+          "id": 83,
+          "idDepartamento": 5,
+          "nombre": "San Antonio de la Cruz",
+          "codigoPostal": "01324"
+        },
+        {
+          "id": 84,
+          "idDepartamento": 5,
+          "nombre": "San Antonio Los Ranchos",
+          "codigoPostal": "01325"
+        },
+        {
+          "id": 85,
+          "idDepartamento": 5,
+          "nombre": "San Fernando",
+          "codigoPostal": "01326"
+        },
+        {
+          "id": 86,
+          "idDepartamento": 5,
+          "nombre": "San Francisco Lempa",
+          "codigoPostal": "01327"
+        },
+        {
+          "id": 87,
+          "idDepartamento": 5,
+          "nombre": "San Francisco Morazán",
+          "codigoPostal": "01328"
+        },
+        {
+          "id": 88,
+          "idDepartamento": 5,
+          "nombre": "San Ignacio",
+          "codigoPostal": "01329"
+        },
+        {
+          "id": 89,
+          "idDepartamento": 5,
+          "nombre": "San Isidro Labrador",
+          "codigoPostal": "01330"
+        },
+        {
+          "id": 90,
+          "idDepartamento": 5,
+          "nombre": "San José Cancasque",
+          "codigoPostal": "01305"
+        },
+        {
+          "id": 91,
+          "idDepartamento": 5,
+          "nombre": "San José Las Flores",
+          "codigoPostal": "01316"
+        },
+        {
+          "id": 92,
+          "idDepartamento": 5,
+          "nombre": "San Luis del Carmen",
+          "codigoPostal": "01331"
+        },
+        {
+          "id": 93,
+          "idDepartamento": 5,
+          "nombre": "San Miguel de Mercedes",
+          "codigoPostal": "01332"
+        },
+        {
+          "id": 94,
+          "idDepartamento": 5,
+          "nombre": "San Rafael",
+          "codigoPostal": "01333"
+        },
+        {
+          "id": 95,
+          "idDepartamento": 5,
+          "nombre": "Santa Rita",
+          "codigoPostal": "01334"
+        },
+        {
+          "id": 96,
+          "idDepartamento": 5,
+          "nombre": "Tejutla",
+          "codigoPostal": "01335"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "CUSCATLAN",
+      "municipios": [
+        {
+          "id": 116,
+          "idDepartamento": 7,
+          "nombre": "Candelaria",
+          "codigoPostal": "01402"
+        },
+        {
+          "id": 117,
+          "idDepartamento": 7,
+          "nombre": "Cojutepeque",
+          "codigoPostal": "01401"
+        },
+        {
+          "id": 118,
+          "idDepartamento": 7,
+          "nombre": "El Carmen",
+          "codigoPostal": "01403"
+        },
+        {
+          "id": 119,
+          "idDepartamento": 7,
+          "nombre": "El Rosario",
+          "codigoPostal": "01404"
+        },
+        {
+          "id": 120,
+          "idDepartamento": 7,
+          "nombre": "Monte San Juan",
+          "codigoPostal": "01405"
+        },
+        {
+          "id": 121,
+          "idDepartamento": 7,
+          "nombre": "Oratorio de Concepción",
+          "codigoPostal": "01406"
+        },
+        {
+          "id": 122,
+          "idDepartamento": 7,
+          "nombre": "San Bartolomé Perulapía",
+          "codigoPostal": "01407"
+        },
+        {
+          "id": 123,
+          "idDepartamento": 7,
+          "nombre": "San Cristóbal",
+          "codigoPostal": "01408"
+        },
+        {
+          "id": 124,
+          "idDepartamento": 7,
+          "nombre": "San José Guayabal",
+          "codigoPostal": "01409"
+        },
+        {
+          "id": 125,
+          "idDepartamento": 7,
+          "nombre": "San Pedro Perulapán",
+          "codigoPostal": "01410"
+        },
+        {
+          "id": 126,
+          "idDepartamento": 7,
+          "nombre": "San Rafael Cedros",
+          "codigoPostal": "01411"
+        },
+        {
+          "id": 127,
+          "idDepartamento": 7,
+          "nombre": "San Ramón",
+          "codigoPostal": "01412"
+        },
+        {
+          "id": 128,
+          "idDepartamento": 7,
+          "nombre": "Santa Cruz Analquito",
+          "codigoPostal": "01413"
+        },
+        {
+          "id": 129,
+          "idDepartamento": 7,
+          "nombre": "Santa Cruz Michapa",
+          "codigoPostal": "01414"
+        },
+        {
+          "id": 130,
+          "idDepartamento": 7,
+          "nombre": "Suchitoto",
+          "codigoPostal": "01415"
+        },
+        {
+          "id": 131,
+          "idDepartamento": 7,
+          "nombre": "Tenancingo",
+          "codigoPostal": "01416"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "LA LIBERTAD",
+      "municipios": [
+        {
+          "id": 42,
+          "idDepartamento": 4,
+          "nombre": "Antiguo Cuscatlán",
+          "codigoPostal": "01502"
+        },
+        {
+          "id": 43,
+          "idDepartamento": 4,
+          "nombre": "Chiltiupán",
+          "codigoPostal": "01507"
+        },
+        {
+          "id": 44,
+          "idDepartamento": 4,
+          "nombre": "Ciudad Arce",
+          "codigoPostal": "01504"
+        },
+        {
+          "id": 45,
+          "idDepartamento": 4,
+          "nombre": "Colon",
+          "codigoPostal": "01512"
+        },
+        {
+          "id": 46,
+          "idDepartamento": 4,
+          "nombre": "Comasagua",
+          "codigoPostal": "01506"
+        },
+        {
+          "id": 47,
+          "idDepartamento": 4,
+          "nombre": "Huizúcar",
+          "codigoPostal": "01508"
+        },
+        {
+          "id": 48,
+          "idDepartamento": 4,
+          "nombre": "Jayaque",
+          "codigoPostal": "01509"
+        },
+        {
+          "id": 49,
+          "idDepartamento": 4,
+          "nombre": "Jicalapa",
+          "codigoPostal": "01510"
+        },
+        {
+          "id": 50,
+          "idDepartamento": 4,
+          "nombre": "La Libertad",
+          "codigoPostal": "01511"
+        },
+        {
+          "id": 51,
+          "idDepartamento": 4,
+          "nombre": "Nuevo Cuscatlán",
+          "codigoPostal": "01513"
+        },
+        {
+          "id": 52,
+          "idDepartamento": 4,
+          "nombre": "Quezaltepeque",
+          "codigoPostal": "01515"
+        },
+        {
+          "id": 53,
+          "idDepartamento": 4,
+          "nombre": "Sacacoyo",
+          "codigoPostal": "01516"
+        },
+        {
+          "id": 54,
+          "idDepartamento": 4,
+          "nombre": "San José Villanueva",
+          "codigoPostal": "01517"
+        },
+        {
+          "id": 55,
+          "idDepartamento": 4,
+          "nombre": "San Juan Opico",
+          "codigoPostal": "01514"
+        },
+        {
+          "id": 56,
+          "idDepartamento": 4,
+          "nombre": "San Matías",
+          "codigoPostal": "01518"
+        },
+        {
+          "id": 57,
+          "idDepartamento": 4,
+          "nombre": "San Pablo Tacachico",
+          "codigoPostal": "01519"
+        },
+        {
+          "id": 58,
+          "idDepartamento": 4,
+          "nombre": "Santa Tecla",
+          "codigoPostal": "01501"
+        },
+        {
+          "id": 59,
+          "idDepartamento": 4,
+          "nombre": "Talnique",
+          "codigoPostal": "01521"
+        },
+        {
+          "id": 60,
+          "idDepartamento": 4,
+          "nombre": "Tamanique",
+          "codigoPostal": "01522"
+        },
+        {
+          "id": 61,
+          "idDepartamento": 4,
+          "nombre": "Teotepeque",
+          "codigoPostal": "01523"
+        },
+        {
+          "id": 62,
+          "idDepartamento": 4,
+          "nombre": "Tepecoyo",
+          "codigoPostal": "01524"
+        },
+        {
+          "id": 63,
+          "idDepartamento": 4,
+          "nombre": "Zaragoza",
+          "codigoPostal": "01525"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "LA PAZ",
+      "municipios": [
+        {
+          "id": 132,
+          "idDepartamento": 8,
+          "nombre": "Cuyultitán",
+          "codigoPostal": "01603"
+        },
+        {
+          "id": 133,
+          "idDepartamento": 8,
+          "nombre": "El Rosario",
+          "codigoPostal": "01604"
+        },
+        {
+          "id": 134,
+          "idDepartamento": 8,
+          "nombre": "Jerusalén",
+          "codigoPostal": "01605"
+        },
+        {
+          "id": 135,
+          "idDepartamento": 8,
+          "nombre": "Mercedes La Ceiba",
+          "codigoPostal": "01607"
+        },
+        {
+          "id": 136,
+          "idDepartamento": 8,
+          "nombre": "Olocuilta",
+          "codigoPostal": "01608"
+        },
+        {
+          "id": 137,
+          "idDepartamento": 8,
+          "nombre": "Paraíso de Osorio",
+          "codigoPostal": "01609"
+        },
+        {
+          "id": 138,
+          "idDepartamento": 8,
+          "nombre": "San Antonio Masahuat",
+          "codigoPostal": "01610"
+        },
+        {
+          "id": 139,
+          "idDepartamento": 8,
+          "nombre": "San Emigdio",
+          "codigoPostal": "01611"
+        },
+        {
+          "id": 140,
+          "idDepartamento": 8,
+          "nombre": "San Francisco Chinameca",
+          "codigoPostal": "01612"
+        },
+        {
+          "id": 141,
+          "idDepartamento": 8,
+          "nombre": "San Juan Nonualco",
+          "codigoPostal": "01613"
+        },
+        {
+          "id": 142,
+          "idDepartamento": 8,
+          "nombre": "San Juan Talpa",
+          "codigoPostal": "01614"
+        },
+        {
+          "id": 143,
+          "idDepartamento": 8,
+          "nombre": "San Juan Tepezontes",
+          "codigoPostal": "01615"
+        },
+        {
+          "id": 144,
+          "idDepartamento": 8,
+          "nombre": "San Luis La Herradura",
+          "codigoPostal": "01606"
+        },
+        {
+          "id": 145,
+          "idDepartamento": 8,
+          "nombre": "San Luis Talpa",
+          "codigoPostal": "01616"
+        },
+        {
+          "id": 146,
+          "idDepartamento": 8,
+          "nombre": "San Miguel Tepezontes",
+          "codigoPostal": "01617"
+        },
+        {
+          "id": 147,
+          "idDepartamento": 8,
+          "nombre": "San Pedro Masahuat",
+          "codigoPostal": "01618"
+        },
+        {
+          "id": 148,
+          "idDepartamento": 8,
+          "nombre": "San Pedro Nonualco",
+          "codigoPostal": "01619"
+        },
+        {
+          "id": 149,
+          "idDepartamento": 8,
+          "nombre": "San Rafael Obrajuelo",
+          "codigoPostal": "01620"
+        },
+        {
+          "id": 150,
+          "idDepartamento": 8,
+          "nombre": "Santa María Ostuma",
+          "codigoPostal": "01621"
+        },
+        {
+          "id": 151,
+          "idDepartamento": 8,
+          "nombre": "Santiago Nonualco",
+          "codigoPostal": "01622"
+        },
+        {
+          "id": 152,
+          "idDepartamento": 8,
+          "nombre": "Tapalhuaca",
+          "codigoPostal": "01623"
+        },
+        {
+          "id": 153,
+          "idDepartamento": 8,
+          "nombre": "Zacatecoluca",
+          "codigoPostal": "01601"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "nombre": "LA UNION",
+      "municipios": [
+        {
+          "id": 245,
+          "idDepartamento": 14,
+          "nombre": "Anamorós",
+          "codigoPostal": "03104"
+        },
+        {
+          "id": 246,
+          "idDepartamento": 14,
+          "nombre": "Bolivar",
+          "codigoPostal": "03105"
+        },
+        {
+          "id": 247,
+          "idDepartamento": 14,
+          "nombre": "Concepción de Oriente",
+          "codigoPostal": "03106"
+        },
+        {
+          "id": 248,
+          "idDepartamento": 14,
+          "nombre": "Conchagua",
+          "codigoPostal": "03107"
+        },
+        {
+          "id": 249,
+          "idDepartamento": 14,
+          "nombre": "El Carmen",
+          "codigoPostal": "03108"
+        },
+        {
+          "id": 250,
+          "idDepartamento": 14,
+          "nombre": "El Sauce",
+          "codigoPostal": "03109"
+        },
+        {
+          "id": 251,
+          "idDepartamento": 14,
+          "nombre": "Intipucá",
+          "codigoPostal": "03111"
+        },
+        {
+          "id": 252,
+          "idDepartamento": 14,
+          "nombre": "La Unión",
+          "codigoPostal": "03101"
+        },
+        {
+          "id": 253,
+          "idDepartamento": 14,
+          "nombre": "Lislique",
+          "codigoPostal": "03112"
+        },
+        {
+          "id": 254,
+          "idDepartamento": 14,
+          "nombre": "Meanguera del Golfo",
+          "codigoPostal": "03113"
+        },
+        {
+          "id": 255,
+          "idDepartamento": 14,
+          "nombre": "Nueva Esparta",
+          "codigoPostal": "03114"
+        },
+        {
+          "id": 256,
+          "idDepartamento": 14,
+          "nombre": "Pasaquina",
+          "codigoPostal": "03116"
+        },
+        {
+          "id": 257,
+          "idDepartamento": 14,
+          "nombre": "Polorós",
+          "codigoPostal": "03117"
+        },
+        {
+          "id": 258,
+          "idDepartamento": 14,
+          "nombre": "San Alejo",
+          "codigoPostal": "03119"
+        },
+        {
+          "id": 259,
+          "idDepartamento": 14,
+          "nombre": "San José de La Fuente",
+          "codigoPostal": "03120"
+        },
+        {
+          "id": 260,
+          "idDepartamento": 14,
+          "nombre": "Santa Rosa de Lima",
+          "codigoPostal": "03121"
+        },
+        {
+          "id": 261,
+          "idDepartamento": 14,
+          "nombre": "Yayantique",
+          "codigoPostal": "03122"
+        },
+        {
+          "id": 262,
+          "idDepartamento": 14,
+          "nombre": "Yucuaiquín",
+          "codigoPostal": "03123"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "nombre": "MORAZAN",
+      "municipios": [
+        {
+          "id": 199,
+          "idDepartamento": 12,
+          "nombre": "Arambala",
+          "codigoPostal": "03202"
+        },
+        {
+          "id": 200,
+          "idDepartamento": 12,
+          "nombre": "Cacaopera",
+          "codigoPostal": "03203"
+        },
+        {
+          "id": 201,
+          "idDepartamento": 12,
+          "nombre": "Chilanga",
+          "codigoPostal": "03205"
+        },
+        {
+          "id": 202,
+          "idDepartamento": 12,
+          "nombre": "Corinto",
+          "codigoPostal": "03204"
+        },
+        {
+          "id": 203,
+          "idDepartamento": 12,
+          "nombre": "Delicias de Concepción",
+          "codigoPostal": "03206"
+        },
+        {
+          "id": 204,
+          "idDepartamento": 12,
+          "nombre": "El Divisadero",
+          "codigoPostal": "03207"
+        },
+        {
+          "id": 205,
+          "idDepartamento": 12,
+          "nombre": "El Rosario",
+          "codigoPostal": "03208"
+        },
+        {
+          "id": 206,
+          "idDepartamento": 12,
+          "nombre": "Gualococti",
+          "codigoPostal": "03209"
+        },
+        {
+          "id": 207,
+          "idDepartamento": 12,
+          "nombre": "Guatajiagua",
+          "codigoPostal": "03210"
+        },
+        {
+          "id": 208,
+          "idDepartamento": 12,
+          "nombre": "Joateca",
+          "codigoPostal": "03211"
+        },
+        {
+          "id": 209,
+          "idDepartamento": 12,
+          "nombre": "Jocoaitique",
+          "codigoPostal": "03212"
+        },
+        {
+          "id": 210,
+          "idDepartamento": 12,
+          "nombre": "Jocoro",
+          "codigoPostal": "03213"
+        },
+        {
+          "id": 211,
+          "idDepartamento": 12,
+          "nombre": "Lolotiquillo",
+          "codigoPostal": "03214"
+        },
+        {
+          "id": 212,
+          "idDepartamento": 12,
+          "nombre": "Meanguera",
+          "codigoPostal": "03215"
+        },
+        {
+          "id": 213,
+          "idDepartamento": 12,
+          "nombre": "Osicala",
+          "codigoPostal": "03216"
+        },
+        {
+          "id": 214,
+          "idDepartamento": 12,
+          "nombre": "Perquín",
+          "codigoPostal": "03217"
+        },
+        {
+          "id": 215,
+          "idDepartamento": 12,
+          "nombre": "San Carlos",
+          "codigoPostal": "03218"
+        },
+        {
+          "id": 216,
+          "idDepartamento": 12,
+          "nombre": "San Fernando",
+          "codigoPostal": "03219"
+        },
+        {
+          "id": 217,
+          "idDepartamento": 12,
+          "nombre": "San Francisco Gotera",
+          "codigoPostal": "03201"
+        },
+        {
+          "id": 218,
+          "idDepartamento": 12,
+          "nombre": "San Isidro",
+          "codigoPostal": "03220"
+        },
+        {
+          "id": 219,
+          "idDepartamento": 12,
+          "nombre": "San Simón",
+          "codigoPostal": "03221"
+        },
+        {
+          "id": 220,
+          "idDepartamento": 12,
+          "nombre": "Sensembra",
+          "codigoPostal": "03222"
+        },
+        {
+          "id": 221,
+          "idDepartamento": 12,
+          "nombre": "Sociedad",
+          "codigoPostal": "03223"
+        },
+        {
+          "id": 222,
+          "idDepartamento": 12,
+          "nombre": "Torola",
+          "codigoPostal": "03224"
+        },
+        {
+          "id": 223,
+          "idDepartamento": 12,
+          "nombre": "Yamabal",
+          "codigoPostal": "03225"
+        },
+        {
+          "id": 224,
+          "idDepartamento": 12,
+          "nombre": "Yoloaiquín",
+          "codigoPostal": "03226"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "nombre": "SAN MIGUEL",
+      "municipios": [
+        {
+          "id": 225,
+          "idDepartamento": 13,
+          "nombre": "Carolina",
+          "codigoPostal": "03302"
+        },
+        {
+          "id": 226,
+          "idDepartamento": 13,
+          "nombre": "Chapeltique",
+          "codigoPostal": "03305"
+        },
+        {
+          "id": 227,
+          "idDepartamento": 13,
+          "nombre": "Chinameca",
+          "codigoPostal": "03306"
+        },
+        {
+          "id": 228,
+          "idDepartamento": 13,
+          "nombre": "Chirilagua",
+          "codigoPostal": "03307"
+        },
+        {
+          "id": 229,
+          "idDepartamento": 13,
+          "nombre": "Ciudad Barrios",
+          "codigoPostal": "03303"
+        },
+        {
+          "id": 230,
+          "idDepartamento": 13,
+          "nombre": "Comacarán",
+          "codigoPostal": "03304"
+        },
+        {
+          "id": 231,
+          "idDepartamento": 13,
+          "nombre": "El Tránsito",
+          "codigoPostal": "03309"
+        },
+        {
+          "id": 232,
+          "idDepartamento": 13,
+          "nombre": "Lolotique",
+          "codigoPostal": "03311"
+        },
+        {
+          "id": 233,
+          "idDepartamento": 13,
+          "nombre": "Moncagua",
+          "codigoPostal": "03312"
+        },
+        {
+          "id": 234,
+          "idDepartamento": 13,
+          "nombre": "Nueva Guadalupe",
+          "codigoPostal": "03313"
+        },
+        {
+          "id": 235,
+          "idDepartamento": 13,
+          "nombre": "Nuevo Edén de San Juan",
+          "codigoPostal": "03314"
+        },
+        {
+          "id": 236,
+          "idDepartamento": 13,
+          "nombre": "Quelepa",
+          "codigoPostal": "03315"
+        },
+        {
+          "id": 237,
+          "idDepartamento": 13,
+          "nombre": "San Antonio del Mosco",
+          "codigoPostal": "03316"
+        },
+        {
+          "id": 238,
+          "idDepartamento": 13,
+          "nombre": "San Gerardo",
+          "codigoPostal": "03318"
+        },
+        {
+          "id": 239,
+          "idDepartamento": 13,
+          "nombre": "San Jorge",
+          "codigoPostal": "03319"
+        },
+        {
+          "id": 240,
+          "idDepartamento": 13,
+          "nombre": "San Luis de la Reina",
+          "codigoPostal": "03320"
+        },
+        {
+          "id": 241,
+          "idDepartamento": 13,
+          "nombre": "San Miguel",
+          "codigoPostal": "03301"
+        },
+        {
+          "id": 242,
+          "idDepartamento": 13,
+          "nombre": "San Rafael Oriente",
+          "codigoPostal": "03322"
+        },
+        {
+          "id": 243,
+          "idDepartamento": 13,
+          "nombre": "Sesori",
+          "codigoPostal": "03323"
+        },
+        {
+          "id": 244,
+          "idDepartamento": 13,
+          "nombre": "Uluazapa",
+          "codigoPostal": "03324"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "SAN SALVADOR",
+      "municipios": [
+        {
+          "id": 97,
+          "idDepartamento": 6,
+          "nombre": "Aguilares",
+          "codigoPostal": "01122"
+        },
+        {
+          "id": 98,
+          "idDepartamento": 6,
+          "nombre": "Apopa",
+          "codigoPostal": "01123"
+        },
+        {
+          "id": 99,
+          "idDepartamento": 6,
+          "nombre": "Ayutuxtepeque",
+          "codigoPostal": "01121"
+        },
+        {
+          "id": 100,
+          "idDepartamento": 6,
+          "nombre": "Ciudad Delgado",
+          "codigoPostal": "01118"
+        },
+        {
+          "id": 101,
+          "idDepartamento": 6,
+          "nombre": "Cuscatancingo",
+          "codigoPostal": "01119"
+        },
+        {
+          "id": 102,
+          "idDepartamento": 6,
+          "nombre": "El Paisnal",
+          "codigoPostal": "01124"
+        },
+        {
+          "id": 103,
+          "idDepartamento": 6,
+          "nombre": "Guazapa",
+          "codigoPostal": "01125"
+        },
+        {
+          "id": 104,
+          "idDepartamento": 6,
+          "nombre": "Ilopango",
+          "codigoPostal": "01117"
+        },
+        {
+          "id": 105,
+          "idDepartamento": 6,
+          "nombre": "Mejicanos",
+          "codigoPostal": "01120"
+        },
+        {
+          "id": 106,
+          "idDepartamento": 6,
+          "nombre": "Nejapa",
+          "codigoPostal": "01126"
+        },
+        {
+          "id": 107,
+          "idDepartamento": 6,
+          "nombre": "Panchimalco",
+          "codigoPostal": "01127"
+        },
+        {
+          "id": 108,
+          "idDepartamento": 6,
+          "nombre": "Rosario de Mora",
+          "codigoPostal": "01128"
+        },
+        {
+          "id": 109,
+          "idDepartamento": 6,
+          "nombre": "San Marcos",
+          "codigoPostal": "01115"
+        },
+        {
+          "id": 110,
+          "idDepartamento": 6,
+          "nombre": "San Martín",
+          "codigoPostal": "01129"
+        },
+        {
+          "id": 111,
+          "idDepartamento": 6,
+          "nombre": "San Salvador",
+          "codigoPostal": "01101"
+        },
+        {
+          "id": 112,
+          "idDepartamento": 6,
+          "nombre": "Santiago Texacuangos",
+          "codigoPostal": "01130"
+        },
+        {
+          "id": 113,
+          "idDepartamento": 6,
+          "nombre": "Santo Tomas",
+          "codigoPostal": "01131"
+        },
+        {
+          "id": 114,
+          "idDepartamento": 6,
+          "nombre": "Soyapango",
+          "codigoPostal": "01116"
+        },
+        {
+          "id": 115,
+          "idDepartamento": 6,
+          "nombre": "Tonacatepeque",
+          "codigoPostal": "01132"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "SAN VICENTE",
+      "municipios": [
+        {
+          "id": 163,
+          "idDepartamento": 10,
+          "nombre": "Apastepeque",
+          "codigoPostal": "01702"
+        },
+        {
+          "id": 164,
+          "idDepartamento": 10,
+          "nombre": "Guadalupe",
+          "codigoPostal": "01703"
+        },
+        {
+          "id": 165,
+          "idDepartamento": 10,
+          "nombre": "San Cayetano Istepeque",
+          "codigoPostal": "01704"
+        },
+        {
+          "id": 166,
+          "idDepartamento": 10,
+          "nombre": "San Esteban Catarina",
+          "codigoPostal": "01705"
+        },
+        {
+          "id": 167,
+          "idDepartamento": 10,
+          "nombre": "San Ildefonso",
+          "codigoPostal": "01706"
+        },
+        {
+          "id": 168,
+          "idDepartamento": 10,
+          "nombre": "San Lorenzo",
+          "codigoPostal": "01707"
+        },
+        {
+          "id": 169,
+          "idDepartamento": 10,
+          "nombre": "San Sebastián",
+          "codigoPostal": "01708"
+        },
+        {
+          "id": 170,
+          "idDepartamento": 10,
+          "nombre": "San Vicente",
+          "codigoPostal": "01701"
+        },
+        {
+          "id": 171,
+          "idDepartamento": 10,
+          "nombre": "Santa Clara",
+          "codigoPostal": "01709"
+        },
+        {
+          "id": 172,
+          "idDepartamento": 10,
+          "nombre": "Santo Domingo",
+          "codigoPostal": "01710"
+        },
+        {
+          "id": 173,
+          "idDepartamento": 10,
+          "nombre": "Tecoluca",
+          "codigoPostal": "01711"
+        },
+        {
+          "id": 174,
+          "idDepartamento": 10,
+          "nombre": "Tepetitán",
+          "codigoPostal": "01712"
+        },
+        {
+          "id": 175,
+          "idDepartamento": 10,
+          "nombre": "Verapaz",
+          "codigoPostal": "01713"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "SANTA ANA",
+      "municipios": [
+        {
+          "id": 13,
+          "idDepartamento": 2,
+          "nombre": "Candelaria de la Frontera",
+          "codigoPostal": "02203"
+        },
+        {
+          "id": 14,
+          "idDepartamento": 2,
+          "nombre": "Chalchuapa",
+          "codigoPostal": "02205"
+        },
+        {
+          "id": 15,
+          "idDepartamento": 2,
+          "nombre": "Coatepeque",
+          "codigoPostal": "02204"
+        },
+        {
+          "id": 16,
+          "idDepartamento": 2,
+          "nombre": "El Congo",
+          "codigoPostal": "02207"
+        },
+        {
+          "id": 17,
+          "idDepartamento": 2,
+          "nombre": "El Porvenir",
+          "codigoPostal": "02208"
+        },
+        {
+          "id": 18,
+          "idDepartamento": 2,
+          "nombre": "Masahuat",
+          "codigoPostal": "02210"
+        },
+        {
+          "id": 19,
+          "idDepartamento": 2,
+          "nombre": "Metapán",
+          "codigoPostal": "02211"
+        },
+        {
+          "id": 20,
+          "idDepartamento": 2,
+          "nombre": "San Antonio Pajonal",
+          "codigoPostal": "02212"
+        },
+        {
+          "id": 21,
+          "idDepartamento": 2,
+          "nombre": "San Sebastian Salitrillo",
+          "codigoPostal": "02215"
+        },
+        {
+          "id": 22,
+          "idDepartamento": 2,
+          "nombre": "Santa Ana",
+          "codigoPostal": "02201"
+        },
+        {
+          "id": 23,
+          "idDepartamento": 2,
+          "nombre": "Santa Rosa Guachipilín",
+          "codigoPostal": "02216"
+        },
+        {
+          "id": 24,
+          "idDepartamento": 2,
+          "nombre": "Santiago de la Frontera",
+          "codigoPostal": "02217"
+        },
+        {
+          "id": 25,
+          "idDepartamento": 2,
+          "nombre": "Texistepeque",
+          "codigoPostal": "02218"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "SONSONATE",
+      "municipios": [
+        {
+          "id": 26,
+          "idDepartamento": 3,
+          "nombre": "Acajutla",
+          "codigoPostal": "02302"
+        },
+        {
+          "id": 27,
+          "idDepartamento": 3,
+          "nombre": "Armenia",
+          "codigoPostal": "02303"
+        },
+        {
+          "id": 28,
+          "idDepartamento": 3,
+          "nombre": "Caluco",
+          "codigoPostal": "02304"
+        },
+        {
+          "id": 29,
+          "idDepartamento": 3,
+          "nombre": "Cuisnahuat",
+          "codigoPostal": "02305"
+        },
+        {
+          "id": 30,
+          "idDepartamento": 3,
+          "nombre": "Izalco",
+          "codigoPostal": "02306"
+        },
+        {
+          "id": 31,
+          "idDepartamento": 3,
+          "nombre": "Juayúa",
+          "codigoPostal": "02307"
+        },
+        {
+          "id": 32,
+          "idDepartamento": 3,
+          "nombre": "Nahuizalco",
+          "codigoPostal": "02311"
+        },
+        {
+          "id": 33,
+          "idDepartamento": 3,
+          "nombre": "Nahuilingo",
+          "codigoPostal": "02312"
+        },
+        {
+          "id": 34,
+          "idDepartamento": 3,
+          "nombre": "Salcoatitán",
+          "codigoPostal": "02313"
+        },
+        {
+          "id": 35,
+          "idDepartamento": 3,
+          "nombre": "San Antonio del Monte",
+          "codigoPostal": "02314"
+        },
+        {
+          "id": 36,
+          "idDepartamento": 3,
+          "nombre": "San Julián",
+          "codigoPostal": "02316"
+        },
+        {
+          "id": 37,
+          "idDepartamento": 3,
+          "nombre": "Santa Catarina Masahuat",
+          "codigoPostal": "02317"
+        },
+        {
+          "id": 38,
+          "idDepartamento": 3,
+          "nombre": "Santa Isabel Ishuatán",
+          "codigoPostal": "02318"
+        },
+        {
+          "id": 39,
+          "idDepartamento": 3,
+          "nombre": "Santo Domingo Guzmán",
+          "codigoPostal": "02319"
+        },
+        {
+          "id": 40,
+          "idDepartamento": 3,
+          "nombre": "Sonsonate",
+          "codigoPostal": "02301"
+        },
+        {
+          "id": 41,
+          "idDepartamento": 3,
+          "nombre": "Sonzacate",
+          "codigoPostal": "02320"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "nombre": "USULUTAN",
+      "municipios": [
+        {
+          "id": 176,
+          "idDepartamento": 11,
+          "nombre": "Alegría",
+          "codigoPostal": "03404"
+        },
+        {
+          "id": 177,
+          "idDepartamento": 11,
+          "nombre": "Berlín",
+          "codigoPostal": "03403"
+        },
+        {
+          "id": 178,
+          "idDepartamento": 11,
+          "nombre": "California",
+          "codigoPostal": "03404"
+        },
+        {
+          "id": 179,
+          "idDepartamento": 11,
+          "nombre": "Concepción Batres",
+          "codigoPostal": "03405"
+        },
+        {
+          "id": 180,
+          "idDepartamento": 11,
+          "nombre": "El Triunfo",
+          "codigoPostal": "03406"
+        },
+        {
+          "id": 181,
+          "idDepartamento": 11,
+          "nombre": "Ereguayquín",
+          "codigoPostal": "03407"
+        },
+        {
+          "id": 182,
+          "idDepartamento": 11,
+          "nombre": "Estanzuelas",
+          "codigoPostal": "03408"
+        },
+        {
+          "id": 183,
+          "idDepartamento": 11,
+          "nombre": "Jiquilisco",
+          "codigoPostal": "03409"
+        },
+        {
+          "id": 184,
+          "idDepartamento": 11,
+          "nombre": "Jucuapa",
+          "codigoPostal": "03410"
+        },
+        {
+          "id": 185,
+          "idDepartamento": 11,
+          "nombre": "Jucuarán",
+          "codigoPostal": "03411"
+        },
+        {
+          "id": 186,
+          "idDepartamento": 11,
+          "nombre": "Mercedes Umaña",
+          "codigoPostal": "03412"
+        },
+        {
+          "id": 187,
+          "idDepartamento": 11,
+          "nombre": "Nueva Granada",
+          "codigoPostal": "03413"
+        },
+        {
+          "id": 188,
+          "idDepartamento": 11,
+          "nombre": "Ozatlán",
+          "codigoPostal": "03415"
+        },
+        {
+          "id": 189,
+          "idDepartamento": 11,
+          "nombre": "Puerto El Triunfo",
+          "codigoPostal": "03417"
+        },
+        {
+          "id": 190,
+          "idDepartamento": 11,
+          "nombre": "San Agustín",
+          "codigoPostal": "03418"
+        },
+        {
+          "id": 191,
+          "idDepartamento": 11,
+          "nombre": "San Buenaventura",
+          "codigoPostal": "03419"
+        },
+        {
+          "id": 192,
+          "idDepartamento": 11,
+          "nombre": "San Dionisio",
+          "codigoPostal": "03420"
+        },
+        {
+          "id": 193,
+          "idDepartamento": 11,
+          "nombre": "San Francisco Javier",
+          "codigoPostal": "03421"
+        },
+        {
+          "id": 194,
+          "idDepartamento": 11,
+          "nombre": "Santa Elena",
+          "codigoPostal": "03422"
+        },
+        {
+          "id": 195,
+          "idDepartamento": 11,
+          "nombre": "Santa María",
+          "codigoPostal": "03423"
+        },
+        {
+          "id": 196,
+          "idDepartamento": 11,
+          "nombre": "Santiago de María",
+          "codigoPostal": "03424"
+        },
+        {
+          "id": 197,
+          "idDepartamento": 11,
+          "nombre": "Tecapán",
+          "codigoPostal": "03426"
+        },
+        {
+          "id": 198,
+          "idDepartamento": 11,
+          "nombre": "Usulután",
+          "codigoPostal": "03401"
+        }
+      ]
+    }
+  ]
+}

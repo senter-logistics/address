@@ -28,4 +28,8 @@ Route::post('/getPostalCodeData/{id}', 'UtilsController@getPostalCodeData')->nam
 Route::post('/getPostalCodeDataFromCanada/{id}', 'UtilsController@getPostalCodeDataFromCanada')->name('getPostalCodeDataFromCanada')->middleware(\App\Http\Middleware\TrimStrings::class);
 Route::post('/getPostalCodeDataFromColombia/{id}', 'UtilsController@getPostalCodeDataFromColombia')->name('getPostalCodeDataFromColombia')->middleware(\App\Http\Middleware\TrimStrings::class);
 
+
+Route::post('/gePostalCodeSV/{id}', 'UtilsController@gePostalCodeSV')->name('gePostalCodeSV');
+
+
 });
